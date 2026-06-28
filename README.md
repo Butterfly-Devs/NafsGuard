@@ -2,6 +2,8 @@
 
 A productivity and digital wellbeing app to block YouTube Shorts, Facebook Reels, unwanted content, set app usage limits, track screen time, and prevent impulsive unblocking with emergency challenge protection.
 
+[View Project](https://butterflydevs.web.app/projects/nafsguard)
+
 ## Features
 
 ### 🚫 App Blocking
@@ -33,6 +35,14 @@ A productivity and digital wellbeing app to block YouTube Shorts, Facebook Reels
 - Poppins fonts
 - Beautiful color scheme
 - Responsive design
+
+## Screenshots
+
+<img src="Screenshorts/Screenshot_20260628_170242_Nafs Guard.jpg" width="250" /> <img src="Screenshorts/Screenshot_20260628_170250_Nafs Guard.jpg" width="250" /> <img src="Screenshorts/Screenshot_20260628_170311_Nafs Guard.jpg" width="250" />
+
+<img src="Screenshorts/Screenshot_20260628_170327_Nafs Guard.jpg" width="250" /> <img src="Screenshorts/Screenshot_20260628_170339_Nafs Guard.jpg" width="250" /> <img src="Screenshorts/Screenshot_20260628_173138_Nafs Guard.jpg" width="250" />
+
+<img src="Screenshorts/Screenshot_20260628_173155_Nafs Guard.jpg" width="250" />
 
 ## Tech Stack
 
